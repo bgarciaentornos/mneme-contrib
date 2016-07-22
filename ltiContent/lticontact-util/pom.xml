@@ -29,14 +29,13 @@
 	<parent>
 		<artifactId>lticontact-base</artifactId>
 		<groupId>org.etudes</groupId>
-		<version>pom</version>
+		<version>1.3-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<name>etudes-lticontact-util</name>
 	<groupId>org.etudes</groupId>
 	<artifactId>etudes-lticontact-util</artifactId>
-	<version>${lticontact.version}</version>
 
 	<packaging>jar</packaging>
 
